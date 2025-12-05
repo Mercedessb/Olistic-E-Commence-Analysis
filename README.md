@@ -65,3 +65,8 @@ The payment dashboard shows...
 ### Customer Dashboard
 
 The customer dashboard shows...
+
+
+## Conclusion & Recommendation 
+
+In conclusion, our comprehensive analysis of the eCommerce business performance has provided valuable insights into key facets such as customer activity, product category quality, and payment type usage. 
