@@ -14,22 +14,22 @@ Data Source: https://www.kaggle.com/olistbr/brazilian-ecommerce
 # Analysis will focus on the following questions:
 
 Sales & Revenue Trends
-1. 
+1. x 
 
 Product & Category Performance
-2. 
+2. x
 
 Seller & Logisitcs Insights 
-3. 
+3. x
 
 Customer & Geography Insights 
-4. 
+4. x
 
 Payment Insights
-5. 
+5. x
 
 Customer Experience & Reviews 
-6. 
+6. x
 
 
 
