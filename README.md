@@ -11,7 +11,7 @@ The Brazilian-eCommerce dataset from Kaggle, contained approximately 100,000 cus
 
 Data Source: https://www.kaggle.com/olistbr/brazilian-ecommerce
 
-<<<<<<< HEAD
+
 # Analysis will focus on the following questions:
 
 Sales & Revenue Trends
@@ -21,17 +21,21 @@ Product & Category Performance
 2. 
 
 Seller & Logisitcs Insights 
+
 3. The dashbaord focuses on how sellers and logisitcs operations contribute to business performance. A geographical map highlights the distribution of sellers across regions, making it easy to understand where most seller activity is concentrated. The average freight value trend chart shows fluctations in delivery costs over time, which can be used to analyse operational efficiency. A ranking of top ities by seller revenue identifies the most profitable seller locations. The delivery performance section compares on time versus late deliveries, offering insights into logisitcs reliability. Finally, a detailed seller performance table includes metrics sich as total revenue, total orders, and average review scores for each seller location, enabling evaluation of both sales output and service quality. 
 
 Customer & Geography Insights 
+
 4. This dashboard provides an in dept look at customers and geographical behaviour. It contains a detailed table that breaks down customer performance by state and city, including total orders, revenue generated, and customer review scores. The regional ranking section compares states based on average order value and order volume, helping identify high value or high activity regions. A map further visualises revenue by geolocation state. The dashboard also includes charts that display revenue by product category, showing which product types contribute most to sales, as well as total order by customer state, highlighting the regional consumption patterns. Overall, the dashboard helps the business understand where its customers are located, what they buy, and how different regions perform. 
 
 Payment Insights
+
 5. 
 
 Customer Experience & Reviews 
-6. 
-=======
+
+6.
+
 ## Analysis will focus on the following questions:
 
 Sales & Revenue Trends
@@ -57,14 +61,13 @@ Payment Insights
 Customer Experience & Reviews 
 
 6. x
->>>>>>> 5b7254678d1e0bf0ee18cadd3e1b8cb4dfc35dcf
 
 
 
 ## Visualisation Tools 
 We used PowerBI to create dashboards showing our insights 
 
-<<<<<<< HEAD
+
 ## Sales Dashboard
 
 The sales dashboard shows...
@@ -77,41 +80,51 @@ The products dashboard shows...
 
 The seller dashboard shows...
 
+
 ## Geographic Dashboard
 
 The geographic dashboard shows...
+
 
 ## Payment Dashboard
 
 The payment dashboard shows...
 
+
 ## Customer Dashboard
 
 The customer dashboard shows...
-=======
+
+
 ### Sales Dashboard
 
 The sales dashboard shows...
+
 
 ### Products Dashboard
 
 The products dashboard shows...
 
+
 ### Seller Dashboard
 
 The seller dashboard shows...
+
 
 ### Geographic Dashboard
 
 The geographic dashboard shows...
 
+
 ### Payment Dashboard
 
 The payment dashboard shows...
 
+
 ### Customer Dashboard
 
 The customer dashboard shows...
+
 
 
 ## Conclusion & Recommendation 
