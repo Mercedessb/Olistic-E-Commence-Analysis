@@ -14,7 +14,7 @@ Data Source: https://www.kaggle.com/olistbr/brazilian-ecommerce
 ## Visualisation Tools 
 We used PowerBI to create dashboards showing our insights 
 
-## Analysis will focus on the following trends :
+## Analysis will focus on the following trends:
 
 - Sales & Revenue Trends 
 
