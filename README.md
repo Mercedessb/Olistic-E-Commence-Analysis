@@ -14,7 +14,7 @@ Data Source: https://www.kaggle.com/olistbr/brazilian-ecommerce
 ## Visualisation Tools 
 We used PowerBI to create dashboards showing our insights 
 
-# Analysis will focus on the following trends :
+## Analysis will focus on the following trends :
 
 - Sales & Revenue Trends 
 
@@ -29,34 +29,38 @@ We used PowerBI to create dashboards showing our insights
 - Customer Experience & Reviews 
 
 
-Sales & Revenue Trends
+### Sales & Revenue Trends
 
 1. The dashboard provides an overview of the company's overall sales and revenue performance. It highlights key finanical metrics such as total revenue, total orders, average order value, and year over year revenue growth. A detailed table shows monthly and annual sales, allowing users to identify high performing dates or seasonal spikes. The line chart displaying total revenue by date illustrates long term revenue patter, including any anomalies or rapid increases. Additionally, the dashboard includes a year over year revenue growth chart to reveal momentum over time, along with a revenue distribution visualisation that breaks down earnings by payment type, credit card, debit card, boleto, and voucher showing customers preferred payment channels. 
 
-Payment Insights
+### Payment Insights
 
 2.  This dashbaord demonstrates both consumer purchasing behaviour and the products that contribute most to revenue. The bar chart dispkaying revenue by payments types across cities showing that credit cards payments consistently outperform all other methods across customer locations. The top 10 products by revenue pie chart indicate the dominated products from 2016 to 2018. The revenue distribution by payment type further reifnorce the dominance of credit cards, accounting for the largest proportion of total transaction value, while vouchers and other forms of payment contribute significantly smaller portions. 
 
-Product & Category Performance
+### Product & Category Performance
 
 3. The dashboard highlights how different product categories contribute to total revenue. The clustered bar charts show the top 10 grossing products and the 10 least grossing products, driven by repeat purchases, broad customer appeal, and strong visibility across the platform. The line charts show a clear visualiation of the products from 2016-2018. The dashbaord reveals clear category leaders with strong momentum, while identifying underperforming categories that may benefit from strategic support. 
 
-Customer & Geography Insights 
+### Customer & Geography Insights 
 
 4. This dashboard provides an in dept look at customers and geographical behaviour. It contains a detailed table that breaks down customer performance by state and city, including total orders, revenue generated, and customer review scores. The regional ranking section compares states based on average order value and order volume, helping identify high value or high activity regions. A map further visualises revenue by geolocation state. The dashboard also includes charts that display revenue by product category, showing which product types contribute most to sales, as well as total order by customer state, highlighting the regional consumption patterns. Overall, the dashboard helps the business understand where its customers are located, what they buy, and how different regions perform. 
 
-Seller & Logisitcs  
+### Seller & Logisitcs  
 
 5. The dashbaord focuses on how sellers and logisitcs operations contribute to business performance. A geographical map highlights the distribution of sellers across regions, making it easy to understand where most seller activity is concentrated. The average freight value trend chart shows fluctations in delivery costs over time, which can be used to analyse operational efficiency. A ranking of top ities by seller revenue identifies the most profitable seller locations. The delivery performance section compares on time versus late deliveries, offering insights into logisitcs reliability. Finally, a detailed seller performance table includes metrics sich as total revenue, total orders, and average review scores for each seller location, enabling evaluation of both sales output and service quality. 
 
-Customer Experience & Reviews 
+### Customer Experience & Reviews 
 
 6. This dashbaord shows detailed trends in review volume, customer ratinbs, and the main drivers behing customer sentiment. It provides a clear view of how customers percieve their experience over time, revealing not only the overall average ratings, but the key factors influencing both positive and negative reviews. By highlighting the most common praise points, such as fast delivery, accurate product descriptions, and reliable product quality, the dashboard helps identify what the platform is doing well. At the same time, it surfaces the primary causes of dissatisfaction, with delivery delays standing out as the most frequent issues, particulary in regions located farther from major logisitcs hubs. These insights, allow for a deeper understanding of customer satisfaction patterns and point to targeted opportunities for operational improvements. 
 
 
 ## Conclusion 
 
-In conclusion, our comprehensive analysis of the eCommerce business performance has provided valuable insights into key facets such as customer activity, product category quality, and payment type usage. 
+In conclusion, this analytics project provides a comprehensive view of business performance across sales, customers, products, geography, payments, logisitcs, and customer experience. The dashboards collectively reveal strong revenue momentum driven by high performing products, dominant payment preferences, and key geographical markets. Credit cards remain the preferred payment method, consistently generating the highest transaction value across regions. Product insights highlight clear categpry leaders as well as underperforming segments that present opportunities for strategic improvement. 
+
+Customer and geographical analyses show where demand is strongest, which states generate the highest revenue, and how customer satisfaction varies reginally. Seller and logistic insights further expose operational strengths and inefficiencies from freight cost fluctuations to one time delivery performance. Customer experience metrics reinforce the importance of accurate product listings and reliable delivery while identifying delivery delays as a primary driver of negative reviews, especially in remote regions. 
+
+Overall, these dashboards delivery actionable insights that can help the busoness optimize sales strategies, priortize high value regions, improve logisitcs operations, and enahnce customer satisfaction. This view supports data driven decision making and provides a strong foundation for fututre performance improvements. 
 
 
 ## Recommendations 
