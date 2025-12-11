@@ -33,6 +33,8 @@ We used PowerBI to create dashboards showing our insights
 
 1. The dashboard provides an overview of the company's overall sales and revenue performance. It highlights key finanical metrics such as total revenue, total orders, average order value, and year over year revenue growth. A detailed table shows monthly and annual sales, allowing users to identify high performing dates or seasonal spikes. The line chart displaying total revenue by date illustrates long term revenue patter, including any anomalies or rapid increases. Additionally, the dashboard includes a year over year revenue growth chart to reveal momentum over time, along with a revenue distribution visualisation that breaks down earnings by payment type, credit card, debit card, boleto, and voucher showing customers preferred payment channels. 
 
+![description](images/1.png)
+
 ### Payment Insights
 
 2.  This dashbaord demonstrates both consumer purchasing behaviour and the products that contribute most to revenue. The bar chart dispkaying revenue by payments types across cities showing that credit cards payments consistently outperform all other methods across customer locations. The top 10 products by revenue pie chart indicate the dominated products from 2016 to 2018. The revenue distribution by payment type further reifnorce the dominance of credit cards, accounting for the largest proportion of total transaction value, while vouchers and other forms of payment contribute significantly smaller portions. 
