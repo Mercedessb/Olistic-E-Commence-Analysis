@@ -63,7 +63,7 @@ We used PowerBI to create dashboards showing our insights
 
 6. This dashbaord shows detailed trends in review volume, customer ratinbs, and the main drivers behing customer sentiment. It provides a clear view of how customers percieve their experience over time, revealing not only the overall average ratings, but the key factors influencing both positive and negative reviews. By highlighting the most common praise points, such as fast delivery, accurate product descriptions, and reliable product quality, the dashboard helps identify what the platform is doing well. At the same time, it surfaces the primary causes of dissatisfaction, with delivery delays standing out as the most frequent issues, particulary in regions located farther from major logisitcs hubs. These insights, allow for a deeper understanding of customer satisfaction patterns and point to targeted opportunities for operational improvements. 
 
-![Screenshot](dashboard/6.png)
+![Dashboard Screenshot](dashboard/6.png)
 
 ## Conclusion 
 
